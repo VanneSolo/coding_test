@@ -1,0 +1,43 @@
+bases:
+
+valeur
+type
+variable
+expression booleenne
+si alors
+si alors sinon 
+les trois types de boucle
+fonctions
+appels de fonctions
+recursivité
+struct classes
+tableaux
+pointeurs
+
+bases étendues:
+
+fichiers texte
+fichiers binaire
+container autres que les tableaux
+(liste, pile, file, h table)
+arbres 
+graphes
+polymorphisme
+généricité
+poo
+types abstraits de données
+ecrire/lire byte par byte dans la mémoire
+architecture des ordinateurs
+image bitmap
+
+bases du jeu vidéo:
+
+gameloop 
+image drawing
+entree
+tilemaps
+tweenings
+sauvegarde
+collisions
+systeme de particule
+ia

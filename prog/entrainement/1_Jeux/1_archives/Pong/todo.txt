@@ -1,0 +1,5 @@
+Créer un terrain facilement redimentionnable qui ne dépende plus directement des dimensions de la fenêtre.
+Rendre le terrain facilement orientable à la verticale ou à l'horizontale.
+Créer une grille qui quadrille le terrain, quelles que soient ses dimensions.
+
+Créer un système d'ID qui permette de savoir si une tuile est survolée par une raquette et où la balle.
